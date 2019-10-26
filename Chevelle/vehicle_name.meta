@@ -1,0 +1,3 @@
+Citizen.CreateThread(function()
+AddTextEntry('0x87E858F2', 'Smurf's SS')
+end)
